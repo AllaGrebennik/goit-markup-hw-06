@@ -589,7 +589,7 @@ img {
 
 /* ---REVIEWS--- */
 /* ---BACKDROP--- */
-.backdrop {
+/* .backdrop {
   position: fixed;
   top: 0;
   left: 0;
@@ -608,10 +608,10 @@ img {
   opacity: 1;
   visibility: visible;
   pointer-events: auto;
-}
+} */
 
 /* ---MODAL WINDOW--- */
-.modal {
+/* .modal {
   position: absolute;
   top: 50%;
   left: 50%;
@@ -654,11 +654,11 @@ img {
 
 .close-btn-icon {
   transition: fill 250ms cubic-bezier(0.4, 0, 0.2, 1);
-}
+} */
 
 /* ---MODAL FORM--- */
 
-.review-form {
+/* .review-form {
   margin: 0 auto;
 }
 
@@ -825,4 +825,4 @@ img {
 .review-form-submit:focus,
 .review-form-submit:active {
   background-color: #404bbf;
-}
+} */
